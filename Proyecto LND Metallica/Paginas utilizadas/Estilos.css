@@ -1,0 +1,82 @@
+.banner {
+  width: 900px;
+  height: 300px;
+  border: 2px solid black;
+  margin: auto;
+}
+
+h1 {
+  font-size: 70px;
+  font-family: Helvetica;
+}
+h2 {
+  font-size: 40px;
+  font-family: Helvetica;
+}
+
+#player {
+  width: 1000px;
+  height: 20px;
+  background-color: #ff8000;
+}
+
+#cuerpo {
+  background: url(img/fondomercha.jpg) center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.discog {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+#lista1 {
+  font-weight: bold;
+  font-size: 13px;
+}
+#letraT h1 {
+  font-size: 70px;
+  font-family: Helvetica;
+}
+#letraN h2 {
+  font-size: 40px;
+  font-family: Helvetica;
+}
+
+#player {
+  width: 1000px;
+  height: 50px;
+  background-color: #ff8000;
+}
+#lista1 li {
+  display: inline;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+.caja {
+  margin-left: 70%;
+  margin-right: 70%;
+  border: solid 730202;
+  background: #0049ff;
+}
+.boton {
+  font-size: 10px;
+  font-family: Verdana, Helvetica;
+  font-weight: bold;
+  color: white;
+  background: #638cb5;
+  border: 50px;
+  width: 80px;
+  height: 19px;
+}
+
+.button {
+  font-family: Helvetica;
+  font-size: 50px;
+  padding: 0px;
+  color: #0000;
+  background-color: #000000;
+  border: 12px solid #ff0004;
+  padding-bottom: 12px;
+}
